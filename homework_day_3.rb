@@ -89,6 +89,8 @@ big_animals = [
 # end
 # end
 #3. Create an array of the big animals that are carnivores.
+For big animals that are carnivores
+
 
 
 
@@ -129,7 +131,7 @@ users = {
 # 1. Return Jonathan's Twitter handle (i.e. the string `"jonnyt"`)
 
 # 2. Return Erik's hometown
-find users["Erik"][:home_town]
+
 # 3. Return the array of Erik's favorite numbers
 
 # 4. Return the type of Avril's pet Colin
